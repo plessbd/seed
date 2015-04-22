@@ -1,0 +1,23 @@
+{
+  "name": "seed",
+  "version": "0.0.0",
+  "authors": [
+    "Ben Plessinger <ben@plessinger.us>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-socket-io": "~0.7.0",
+    "fontawesome": "~4.3.0",
+    "moment": "~2.10.2",
+    "pretty-bytes": "~1.0.4",
+    "animate.css": "~3.2.6"
+  }
+}
